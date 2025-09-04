@@ -1,7 +1,11 @@
 PFO1_PSRedes_SabrinaChoque_ComisionD
 
 Alumno: Sabrina Choque
+
 Comision: D
+
+gitHub: https://github.com/SabrinaChoque/PFO1_PSRedes_SabrinaChoque_ComisionD
+
 
 Descripcion del PFO1:
 
